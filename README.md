@@ -1,1 +1,3 @@
-# AI-Data-Analytics
+# AI Data Analytics
+AI analytics refers to a subset of business intelligence that uses machine learning techniques to discover insights, find new patterns and discover relationships in the data. In practice, AI analytics is the process of automating much of the work that a data analyst would normally perform.
+When AI and data are combined for Predictive [AI Data Analytics](https://www.lovespreadsheets.com/), users can develop forecasts and analyze certain scenarios to determine chances of success. AI-powered data analysis tools are key for any organization looking to succeed in this data-driven world. Here is a look at the 5 best AI tools for data analysts: 1. Tableau. Topping our list of 5 best AI tools for data analysts is Tableau, which is an analytics and data visualization platform that enables users to interact with their data.
